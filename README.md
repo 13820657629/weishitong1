@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">
-  bupt-ncov-report-action
+  bupt-ncov-report-action1
 </h1>
 
 <p align="center">
